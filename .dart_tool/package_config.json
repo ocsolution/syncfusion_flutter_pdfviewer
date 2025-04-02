@@ -164,26 +164,8 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "syncfusion_pdfviewer_macos",
-      "rootUri": "file:///Users/developer11/.pub-cache/hosted/pub.dev/syncfusion_pdfviewer_macos-29.1.35",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
       "name": "syncfusion_pdfviewer_platform_interface",
       "rootUri": "file:///Users/developer11/.pub-cache/hosted/pub.dev/syncfusion_pdfviewer_platform_interface-29.1.35",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
-      "name": "syncfusion_pdfviewer_web",
-      "rootUri": "file:///Users/developer11/.pub-cache/hosted/pub.dev/syncfusion_pdfviewer_web-29.1.35",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
-      "name": "syncfusion_pdfviewer_windows",
-      "rootUri": "file:///Users/developer11/.pub-cache/hosted/pub.dev/syncfusion_pdfviewer_windows-29.1.35",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -290,7 +272,7 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2025-04-02T08:45:04.037368Z",
+  "generated": "2025-04-02T09:51:46.381555Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///Volumes/OCSMac/Development/flutter",
