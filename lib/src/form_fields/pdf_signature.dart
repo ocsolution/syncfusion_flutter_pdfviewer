@@ -7,6 +7,7 @@ import 'package:syncfusion_flutter_core/localizations.dart';
 import 'package:syncfusion_flutter_pdf/pdf.dart';
 import 'package:syncfusion_flutter_signaturepad/signaturepad.dart';
 import '../../pdfviewer.dart';
+import '../../signaturepad.dart';
 import '../common/pdfviewer_helper.dart';
 import 'pdf_form_field.dart';
 

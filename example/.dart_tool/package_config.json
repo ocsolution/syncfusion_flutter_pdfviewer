@@ -230,12 +230,6 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "syncfusion_flutter_signaturepad",
-      "rootUri": "file:///Users/developer11/.pub-cache/hosted/pub.dev/syncfusion_flutter_signaturepad-29.1.35",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
       "name": "syncfusion_pdfviewer_macos",
       "rootUri": "file:///Users/developer11/.pub-cache/hosted/pub.dev/syncfusion_pdfviewer_macos-29.1.35",
       "packageUri": "lib/",
@@ -374,7 +368,7 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2025-04-02T07:45:37.670268Z",
+  "generated": "2025-04-02T08:27:45.502967Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///Volumes/OCSMac/Development/flutter",
