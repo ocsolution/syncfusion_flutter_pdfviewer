@@ -195,18 +195,20 @@ packages:
   syncfusion_flutter_core:
     dependency: transitive
     description:
-      name: syncfusion_flutter_core
-      sha256: be5eff439bb6c16eb2f297aa3dde779cc5352485f2df1825557d14f09d5b26b6
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: ff1d0f0e8d7dfa447dd955fc52f1a38a183ebb26
+      url: "https://github.com/ocsolution/syncfusion_flutter_core.git"
+    source: git
     version: "29.1.35"
   syncfusion_flutter_pdf:
     dependency: "direct main"
     description:
-      name: syncfusion_flutter_pdf
-      sha256: e921849cac9b2b0e59d7938e5a2d055c0255e2e7e0298617a915550ab9bb8cdf
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "3a0c9bd2c7c9e96fc9ff9111bf8109007c43795d"
+      url: "https://github.com/ocsolution/syncfusion_flutter_pdf.git"
+    source: git
     version: "29.1.35"
   syncfusion_pdfviewer_platform_interface:
     dependency: "direct main"
@@ -252,10 +254,10 @@ packages:
     dependency: transitive
     description:
       name: url_launcher_ios
-      sha256: "16a513b6c12bb419304e72ea0ae2ab4fed569920d1c7cb850263fe3acc824626"
+      sha256: "7f2022359d4c099eea7df3fdf739f7d3d3b9faf3166fb1dd390775176e0b76cb"
       url: "https://pub.dev"
     source: hosted
-    version: "6.3.2"
+    version: "6.3.3"
   url_launcher_linux:
     dependency: transitive
     description:

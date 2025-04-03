@@ -153,13 +153,13 @@
     },
     {
       "name": "syncfusion_flutter_core",
-      "rootUri": "file:///Users/developer11/.pub-cache/hosted/pub.dev/syncfusion_flutter_core-29.1.35",
+      "rootUri": "file:///Users/developer11/.pub-cache/git/syncfusion_flutter_core-ff1d0f0e8d7dfa447dd955fc52f1a38a183ebb26/",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "syncfusion_flutter_pdf",
-      "rootUri": "file:///Users/developer11/.pub-cache/hosted/pub.dev/syncfusion_flutter_pdf-29.1.35",
+      "rootUri": "file:///Users/developer11/.pub-cache/git/syncfusion_flutter_pdf-3a0c9bd2c7c9e96fc9ff9111bf8109007c43795d/",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -195,9 +195,9 @@
     },
     {
       "name": "url_launcher_ios",
-      "rootUri": "file:///Users/developer11/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.2",
+      "rootUri": "file:///Users/developer11/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.3",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.4"
     },
     {
       "name": "url_launcher_linux",
@@ -272,7 +272,7 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2025-04-02T09:51:46.381555Z",
+  "generated": "2025-04-03T04:07:04.603781Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///Volumes/OCSMac/Development/flutter",
