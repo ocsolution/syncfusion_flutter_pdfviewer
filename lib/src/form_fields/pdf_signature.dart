@@ -3,8 +3,8 @@ import 'dart:ui' as ui;
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:syncfusion_flutter_core/localizations.dart';
 import 'package:syncfusion_flutter_pdf/pdf.dart';
+import '/core/localizations.dart';
 import '/pdfviewer.dart';
 import '/signaturepad.dart';
 import '../common/pdfviewer_helper.dart';
